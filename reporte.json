@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Juan Perez",
+    "sueldo_base": 2156024,
+    "descuento_salud": 150921.68000000002,
+    "descuento_afp": 258722.88,
+    "sueldo_liquido": 1746379.44
+  },
+  {
+    "nombre": "Mar\u00eda Garc\u00eda",
+    "sueldo_base": 2168676,
+    "descuento_salud": 151807.32,
+    "descuento_afp": 260241.12,
+    "sueldo_liquido": 1756627.56
+  },
+  {
+    "nombre": "Carlos L\u00f3pez",
+    "sueldo_base": 2018715,
+    "descuento_salud": 141310.05000000002,
+    "descuento_afp": 242245.8,
+    "sueldo_liquido": 1635159.15
+  },
+  {
+    "nombre": "Ana Martinez",
+    "sueldo_base": 1868445,
+    "descuento_salud": 130791.15000000001,
+    "descuento_afp": 224213.4,
+    "sueldo_liquido": 1513440.4500000002
+  },
+  {
+    "nombre": "Pedro Rodriguez",
+    "sueldo_base": 995107,
+    "descuento_salud": 69657.49,
+    "descuento_afp": 119412.84,
+    "sueldo_liquido": 806036.67
+  },
+  {
+    "nombre": "Laura Hern\u00e1ndez",
+    "sueldo_base": 1092324,
+    "descuento_salud": 76462.68000000001,
+    "descuento_afp": 131078.88,
+    "sueldo_liquido": 884782.44
+  },
+  {
+    "nombre": "Miguel S\u00e1nchez",
+    "sueldo_base": 1220809,
+    "descuento_salud": 85456.63,
+    "descuento_afp": 146497.08,
+    "sueldo_liquido": 988855.2900000002
+  },
+  {
+    "nombre": "Isabel G\u00f3mez",
+    "sueldo_base": 1108820,
+    "descuento_salud": 77617.40000000001,
+    "descuento_afp": 133058.4,
+    "sueldo_liquido": 898144.2
+  },
+  {
+    "nombre": "Francisco D\u00edaz",
+    "sueldo_base": 2184118,
+    "descuento_salud": 152888.26,
+    "descuento_afp": 262094.16,
+    "sueldo_liquido": 1769135.58
+  },
+  {
+    "nombre": "Elena Fern\u00e1ndez",
+    "sueldo_base": 1692682,
+    "descuento_salud": 118487.74,
+    "descuento_afp": 203121.84,
+    "sueldo_liquido": 1371072.42
+  }
+]
